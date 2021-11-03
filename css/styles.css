@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    height: 48vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#countBack {
+    font-size: 44em;
+}
