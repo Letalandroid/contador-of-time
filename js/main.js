@@ -11,11 +11,11 @@ if (i != undefined) {
 
         if (i > 20) {
 
-            document.getElementById("countBack").style.color = "#0f0";
+            document.getElementById("countBack").style.color = "#0b0";
 
         } else if (i == 20) {
 
-            document.getElementById("countBack").style.color = "#f17014";
+            document.getElementById("countBack").style.color = "#e14900";
 
         } else if (i == 10) {
 
